@@ -1,5 +1,5 @@
 CREATE DB_Ventas_ETL;
-Go
+GO
 
 USE DB_Ventas_ETL;
 GO
